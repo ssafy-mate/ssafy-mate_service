@@ -1,7 +1,7 @@
 ---
 name: Review Templete
 about: 서비스 이용 후기 작성을 위한 템플릿입니다.
-title: 서비스 이용 후기
+title: 'Review : 싸피메이트 이용 후기'
 labels: "\U0001F499 Review"
 assignees: ''
 
