@@ -26,4 +26,4 @@
 
 👇 더 자세한 내용은 노션을 참고해주세요.
 
-[노션 링크](https://www.notion.so/SSAFY-MATE-5b415d24afcb4677bdb96f0c09638cc7)
+[노션 링크](https://freezing-cobweb-11c.notion.site/SSAFY-MATE-5b415d24afcb4677bdb96f0c09638cc7)
